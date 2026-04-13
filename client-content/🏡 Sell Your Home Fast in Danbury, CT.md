@@ -10,7 +10,7 @@ Thinking about selling your home?
 
 Since **2001**, Mirna has helped Connecticut homeowners **sell their house fast**, combining expert pricing strategies, targeted marketing, and negotiation skills that consistently outperform the market.
 
-Powered by **Voro**, a network of experienced **real estate agents nationwide**, MC Homes Real Estate gives you both *local expertise* and *national reach* — the perfect formula for success.
+Powered by **Voro**, a network of experienced **real estate agents nationwide**, MC Homes Real Estate gives you both _local expertise_ and _national reach_ — the perfect formula for success.
 
 ---
 
@@ -18,17 +18,17 @@ Powered by **Voro**, a network of experienced **real estate agents nationwide**,
 
 Your journey begins with an **instant home value estimate** — accurate, personalized, and powered by verified **MLS data** and **real estate market data**.
 
-👉 **Get My Free Home Value Report** *(Embed your CloudCMA link here)*
+👉 **Get My Free Home Value Report** _(Embed your CloudCMA link here)_
 
 You’ll receive:
 
-* A **personalized dashboard** showing your home value, neighborhood trends, and buyer activity
+- A **personalized dashboard** showing your home value, neighborhood trends, and buyer activity
 
-* Insights from top **home value estimate** models
+- Insights from top **home value estimate** models
 
-* Real data to help you decide whether to **sell your home** or hold
+- Real data to help you decide whether to **sell your home** or hold
 
-Keywords naturally embedded: *home value estimate, what is my home worth, MLS data, personalized dashboard, real estate market data.*
+Keywords naturally embedded: _home value estimate, what is my home worth, MLS data, personalized dashboard, real estate market data._
 
 ---
 
@@ -44,7 +44,7 @@ Every seller deserves flexibility. At **MC Homes Real Estate**, you can:
 
 Compare your options side by side, with clarity and confidence — not guesswork.
 
-Keywords used: *sell my home, cash offer for house, instant cash offer, selling options for homeowners, sell your home For Sale by Owner.*
+Keywords used: _sell my home, cash offer for house, instant cash offer, selling options for homeowners, sell your home For Sale by Owner._
 
 ---
 
@@ -60,21 +60,21 @@ Keywords used: *sell my home, cash offer for house, instant cash offer, selling 
 
 Everything is **mobile-friendly**, easy to use, and focused on your success.
 
-Keywords used: *home selling process, how to sell a home, connect with agent, list your home, get a home offer, top agents.*
+Keywords used: _home selling process, how to sell a home, connect with agent, list your home, get a home offer, top agents._
 
 ---
 
 ## **🧠 Why Sellers Choose MC Homes Real Estate**
 
-* **Local trust, national power:** Backed by **Voro’s network of partner agents nationwide**
+- **Local trust, national power:** Backed by **Voro’s network of partner agents nationwide**
 
-* **Verified listings:** All data comes directly from MLS and local boards
+- **Verified listings:** All data comes directly from MLS and local boards
 
-* **Proven results:** Homes listed with MC Homes often **sell for more** and close faster
+- **Proven results:** Homes listed with MC Homes often **sell for more** and close faster
 
-* **High-performance listings:** Smart marketing, professional staging, and strategic pricing
+- **High-performance listings:** Smart marketing, professional staging, and strategic pricing
 
-Keywords included: *homes sell for more, verified listings, partner agents nationwide, high-performance listings.*
+Keywords included: _homes sell for more, verified listings, partner agents nationwide, high-performance listings._
 
 ---
 
@@ -92,7 +92,7 @@ Keywords included: *homes sell for more, verified listings, partner agents natio
 **What programs help homeowners sell fast?**  
  Our **home selling programs** include traditional listings, For Sale by Owner support, and investor cash offers.
 
-Keywords embedded: *how much is my house worth, best way to sell a home, sell my house online, home selling programs.*
+Keywords embedded: _how much is my house worth, best way to sell a home, sell my house online, home selling programs._
 
 ---
 
@@ -100,7 +100,7 @@ Keywords embedded: *how much is my house worth, best way to sell a home, sell my
 
 Get a **free home value estimate** today and see why more sellers in **Danbury, New Milford, Bethel, and Brookfield** trust **MC Homes Real Estate**.
 
-👉 **Get My Free Home Value Report** *(CloudCMA link here)*  
+👉 **Get My Free Home Value Report** _(CloudCMA link here)_  
  or  
  👉 **List My House for Sale**
 
@@ -112,64 +112,64 @@ Get a **free home value estimate** today and see why more sellers in **Danbury, 
 
 ### **🏡 BUYER INTENT KEYWORDS (Transactional – Ready to Act)**
 
-| Category | Keywords | Use On |
-| ----- | ----- | ----- |
-| **General Buyers** | homes for sale in Danbury CT, houses for sale Danbury CT, Danbury CT real estate listings, Danbury CT homes, new listings Danbury CT | Homepage, “Homes for Sale” page |
+| Category               | Keywords                                                                                                                                                                                                | Use On                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **General Buyers**     | homes for sale in Danbury CT, houses for sale Danbury CT, Danbury CT real estate listings, Danbury CT homes, new listings Danbury CT                                                                    | Homepage, “Homes for Sale” page                             |
 | **Condos & Townhomes** | condos for sale Danbury CT, townhomes for sale Danbury CT, Danbury CT condos, Danbury townhouses, affordable condos Danbury CT, Danbury CT condo communities, condo units for sale near Candlewood Lake | Condos/Townhomes landing page, blog post about condo living |
-| **Luxury Buyers** | luxury homes for sale in Danbury CT, waterfront homes Candlewood Lake, Danbury CT luxury estates, golf course homes Danbury CT | Luxury Homes page |
-| **New Construction** | new construction homes Danbury CT, Danbury CT new developments, modern homes for sale Danbury | New Construction page |
+| **Luxury Buyers**      | luxury homes for sale in Danbury CT, waterfront homes Candlewood Lake, Danbury CT luxury estates, golf course homes Danbury CT                                                                          | Luxury Homes page                                           |
+| **New Construction**   | new construction homes Danbury CT, Danbury CT new developments, modern homes for sale Danbury                                                                                                           | New Construction page                                       |
 
 ---
 
 ### **💰 SELLER INTENT KEYWORDS (High Intent – Listing Leads)**
 
-| Category | Keywords | Use On |
-| ----- | ----- | ----- |
-| **Home Valuation** | home valuation Danbury CT, what’s my Danbury home worth, home appraisal Danbury CT, free market analysis Danbury CT | Free Market Analysis page |
-| **Selling a Home** | sell my house Danbury CT, sell my house fast Danbury CT, best Realtor to sell a house in Danbury CT, how to sell your home in Danbury CT | Seller Tips, Seller Marketing pages |
-| **Marketing & Profit** | home staging Danbury CT, Danbury home selling strategy, local agents Danbury CT, MC Homes Real Estate seller plan, local agents matter more profit Danbury | Seller Marketing page, blog posts |
+| Category               | Keywords                                                                                                                                                   | Use On                              |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **Home Valuation**     | home valuation Danbury CT, what’s my Danbury home worth, home appraisal Danbury CT, free market analysis Danbury CT                                        | Free Market Analysis page           |
+| **Selling a Home**     | sell my house Danbury CT, sell my house fast Danbury CT, best Realtor to sell a house in Danbury CT, how to sell your home in Danbury CT                   | Seller Tips, Seller Marketing pages |
+| **Marketing & Profit** | home staging Danbury CT, Danbury home selling strategy, local agents Danbury CT, MC Homes Real Estate seller plan, local agents matter more profit Danbury | Seller Marketing page, blog posts   |
 
 ---
 
 ### **📊 INFORMATIONAL & MIDDLE FUNNEL (Research Stage)**
 
-| Category | Keywords | Use On |
-| ----- | ----- | ----- |
-| **Market Trends** | Danbury CT housing market, Danbury real estate trends, Danbury CT home prices, median home price Danbury CT | Blog posts, Market Report page |
-| **Neighborhoods** | Candlewood Lake homes Danbury CT, Aunt Hack Ridge Estates, King Street Danbury homes, Stadley Rough Danbury homes | Luxury pages, “Explore Danbury Neighborhoods” section |
-| **Lifestyle Searches** | Danbury lakefront condos, Danbury downtown condos, commuter-friendly homes Danbury CT, golf course homes near Danbury | Advanced Search filters, lifestyle content |
-| **Condo-Specific Info** | condo fees Danbury CT, pet-friendly condos Danbury CT, low HOA condos Danbury, condo communities near I-84 | Condo/Townhome page, FAQ blog post |
+| Category                | Keywords                                                                                                              | Use On                                                |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| **Market Trends**       | Danbury CT housing market, Danbury real estate trends, Danbury CT home prices, median home price Danbury CT           | Blog posts, Market Report page                        |
+| **Neighborhoods**       | Candlewood Lake homes Danbury CT, Aunt Hack Ridge Estates, King Street Danbury homes, Stadley Rough Danbury homes     | Luxury pages, “Explore Danbury Neighborhoods” section |
+| **Lifestyle Searches**  | Danbury lakefront condos, Danbury downtown condos, commuter-friendly homes Danbury CT, golf course homes near Danbury | Advanced Search filters, lifestyle content            |
+| **Condo-Specific Info** | condo fees Danbury CT, pet-friendly condos Danbury CT, low HOA condos Danbury, condo communities near I-84            | Condo/Townhome page, FAQ blog post                    |
 
 ---
 
 ### **🧠 Long-Tail Keywords You Can Easily Own**
 
-*(these get less competition from big sites)*
+_(these get less competition from big sites)_
 
-* best condo Realtor in Danbury CT
+- best condo Realtor in Danbury CT
 
-* how to buy a condo in Danbury CT
+- how to buy a condo in Danbury CT
 
-* townhomes near Candlewood Lake Danbury
+- townhomes near Candlewood Lake Danbury
 
-* Danbury condo market report
+- Danbury condo market report
 
-* sell my condo in Danbury CT
+- sell my condo in Danbury CT
 
-* staging tips for Danbury condos
+- staging tips for Danbury condos
 
-* local agent to sell my townhouse Danbury CT
+- local agent to sell my townhouse Danbury CT
 
 ---
 
 ### **🧩 Suggested Page Connections**
 
-| Page | Keyword Focus | Internal Links |
-| ----- | ----- | ----- |
-| **Homepage** | Danbury CT homes, Realtor Mirna Chinchilla, MC Homes Real Estate | Link to luxury, condos, market report |
-| **Condos Page** | condos for sale Danbury CT, townhomes Danbury | Link to free market analysis, buyer guide |
-| **Seller Marketing** | sell my house Danbury CT, home valuation | Link to seller tips, staging blogs |
-| **Blog Hub** | Danbury real estate tips, home selling advice | Link to specific service pages |
+| Page                 | Keyword Focus                                                    | Internal Links                            |
+| -------------------- | ---------------------------------------------------------------- | ----------------------------------------- |
+| **Homepage**         | Danbury CT homes, Realtor Mirna Chinchilla, MC Homes Real Estate | Link to luxury, condos, market report     |
+| **Condos Page**      | condos for sale Danbury CT, townhomes Danbury                    | Link to free market analysis, buyer guide |
+| **Seller Marketing** | sell my house Danbury CT, home valuation                         | Link to seller tips, staging blogs        |
+| **Blog Hub**         | Danbury real estate tips, home selling advice                    | Link to specific service pages            |
 
 ---
 
@@ -182,4 +182,3 @@ Get a **free home value estimate** today and see why more sellers in **Danbury, 
 3. **Add internal links** to connect buyer/seller journeys (blog → valuation page).
 
 4. **Use variations** in image alt text and meta descriptions.
-
