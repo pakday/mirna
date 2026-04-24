@@ -10,26 +10,9 @@
     <title>
       About Mirna Chinchilla | MC Homes Real Estate | Realtor in Danbury CT
     </title>
-  </head>
-  <body>
-    <!-- ============================================================
-     SECTION: TEMP NAV (remove before going live)
-     Contains global CSS reset + font import used by all sections
-     ============================================================ -->
-    <div id="amc-tempnav">
-      <div class="amc-wrap">
-        <div class="amc-nav-brand">MC Homes Real Estate</div>
-        <nav class="amc-nav-links">
-          <a href="index.html" class="active">About Mirna</a>
-          <a href="selling-ct-probate-downsizing-specialist.html"
-            >Probate &amp; Downsizing</a
-          >
-          <a href="about.html">About MC Homes</a>
-        </nav>
-      </div>
-    </div>
+
+    <!-- GLOBAL RESET (keep this section at top always) -->
     <style>
-      /* === GLOBAL RESET (keep this section at top always) === */
       @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
       *,
       *::before,
@@ -54,7 +37,6 @@
       }
       img {
         max-width: 100%;
-        display: block;
       }
 
       /* === SHARED CONTAINER (repeated in each section for portability) === */
@@ -145,7 +127,26 @@
         border-color: #f7951b;
         color: #f7951b;
       }
-
+    </style>
+  </head>
+  <body>
+    <!-- ============================================================
+     SECTION: TEMP NAV (remove before going live)
+     Contains global CSS reset + font import used by all sections
+     ============================================================ -->
+    <div id="amc-tempnav">
+      <div class="amc-wrap">
+        <div class="amc-nav-brand">MC Homes Real Estate</div>
+        <nav class="amc-nav-links">
+          <a href="index.html" class="active">About Mirna</a>
+          <a href="selling-ct-probate-downsizing-specialist.html"
+            >Probate &amp; Downsizing</a
+          >
+          <a href="about.html">About MC Homes</a>
+        </nav>
+      </div>
+    </div>
+    <style>
       /* === TEMP NAV STYLES === */
       #amc-tempnav {
         position: sticky;
@@ -819,6 +820,7 @@
         width: 100%;
         height: 100%;
         object-fit: cover;
+        display: block;
       }
       .amc-about-contact-card {
         margin-top: 20px;
@@ -1310,6 +1312,7 @@
         width: 100%;
         height: 100%;
         object-fit: cover;
+        display: block;
       }
       .amc-quote-block {
         margin-top: 20px;

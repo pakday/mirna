@@ -10,23 +10,8 @@
     <title>
       About MC Homes Real Estate | REALTOR® Mirna Chinchilla | Danbury CT
     </title>
-  </head>
-  <body>
-    <!-- ============================================================
-     SECTION: NAV (global CSS reset lives here)
-     ============================================================ -->
-    <div id="amc-tempnav">
-      <div class="amc-wrap">
-        <div class="amc-nav-brand">MC Homes Real Estate</div>
-        <nav class="amc-nav-links">
-          <a href="index.html">About Mirna</a>
-          <a href="selling-ct-probate-downsizing-specialist.html"
-            >Probate &amp; Downsizing</a
-          >
-          <a href="about.html" class="active">About MC Homes</a>
-        </nav>
-      </div>
-    </div>
+
+    <!-- GLOBAL RESET -->
     <style>
       /* === GLOBAL RESET === */
       @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
@@ -53,7 +38,6 @@
       }
       img {
         max-width: 100%;
-        display: block;
       }
       .amc-wrap {
         max-width: 1280px;
@@ -140,7 +124,25 @@
       .amc-orange {
         color: #f7951b;
       }
-
+    </style>
+  </head>
+  <body>
+    <!-- ============================================================
+     SECTION: NAV (global CSS reset lives here)
+     ============================================================ -->
+    <div id="amc-tempnav">
+      <div class="amc-wrap">
+        <div class="amc-nav-brand">MC Homes Real Estate</div>
+        <nav class="amc-nav-links">
+          <a href="index.html">About Mirna</a>
+          <a href="selling-ct-probate-downsizing-specialist.html"
+            >Probate &amp; Downsizing</a
+          >
+          <a href="about.html" class="active">About MC Homes</a>
+        </nav>
+      </div>
+    </div>
+    <style>
       /* NAV */
       #amc-tempnav {
         position: sticky;
@@ -785,6 +787,7 @@
         object-position: top center;
         border-radius: 20px;
         box-shadow: 0 24px 64px rgba(0, 0, 0, 0.12);
+        display: block;
       }
       .amc-company-chip {
         position: absolute;
