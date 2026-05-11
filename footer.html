@@ -1,0 +1,1332 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Footer Block — MC Homes Real Estate</title>
+    <style>
+      body {
+        margin: 0;
+        background: #f4f6f9;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- PASTE START -->
+
+    <!-- ① STICKY CTA -->
+    <div id="amc-sticky">
+      <a
+        href="https://cloudattract.com/50d0ff"
+        target="_blank"
+        rel="noopener"
+        class="amc-sticky-btn"
+        aria-label="Thinking of Downsizing? Get a free home market report"
+      >
+        <span class="amc-sticky-icon">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+            <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+            <polyline points="9 22 9 12 15 12 15 22" />
+          </svg>
+        </span>
+        <span class="amc-sticky-text">
+          <strong>Thinking of Downsizing?</strong>
+          <span>Free Home Market Report</span>
+        </span>
+        <svg
+          class="amc-sticky-arrow"
+          xmlns="http://www.w3.org/2000/svg"
+          width="16"
+          height="16"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2.5"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <path d="M5 12h14" />
+          <path d="m12 5 7 7-7 7" />
+        </svg>
+      </a>
+      <button
+        class="amc-sticky-close"
+        onclick="document.getElementById('amc-sticky').style.display = 'none'"
+        aria-label="Dismiss"
+      >
+        &times;
+      </button>
+    </div>
+    <style>
+      #amc-sticky {
+        position: fixed;
+        bottom: 28px;
+        right: 24px;
+        z-index: 10000;
+        display: flex;
+        align-items: flex-start;
+        gap: 6px;
+        animation: amc-sticky-in 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) 1.2s
+          both;
+      }
+      @keyframes amc-sticky-in {
+        from {
+          transform: translateY(30px);
+          opacity: 0;
+        }
+        to {
+          transform: translateY(0);
+          opacity: 1;
+        }
+      }
+      .amc-sticky-btn {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        background: linear-gradient(135deg, #f7951b 0%, #e07810 100%);
+        color: #fff;
+        padding: 13px 18px 13px 14px;
+        border-radius: 50px;
+        text-decoration: none;
+        box-shadow:
+          0 8px 32px rgba(247, 149, 27, 0.5),
+          0 2px 8px rgba(0, 0, 0, 0.2);
+        transition:
+          transform 0.2s,
+          box-shadow 0.2s;
+        max-width: 260px;
+        font-family:
+          "Inter",
+          -apple-system,
+          sans-serif;
+      }
+      .amc-sticky-btn:hover {
+        transform: translateY(-3px);
+        box-shadow:
+          0 14px 42px rgba(247, 149, 27, 0.6),
+          0 4px 12px rgba(0, 0, 0, 0.25);
+      }
+      .amc-sticky-icon {
+        width: 38px;
+        height: 38px;
+        background: rgba(255, 255, 255, 0.22);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+      .amc-sticky-text {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.25;
+        flex: 1;
+      }
+      .amc-sticky-text strong {
+        font-size: 0.82rem;
+        font-weight: 800;
+        white-space: nowrap;
+        color: #fff;
+      }
+      .amc-sticky-text span {
+        font-size: 0.71rem;
+        opacity: 0.88;
+        white-space: nowrap;
+        color: #fff;
+        font-weight: 500;
+        display: block;
+      }
+      .amc-sticky-arrow {
+        opacity: 0.75;
+        flex-shrink: 0;
+        margin-top: 1px;
+      }
+      .amc-sticky-close {
+        width: 26px;
+        height: 26px;
+        background: rgba(26, 26, 46, 0.85);
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        color: rgba(255, 255, 255, 0.65);
+        flex-shrink: 0;
+        margin-top: -4px;
+        margin-right: -4px;
+        transition:
+          background 0.2s,
+          color 0.2s;
+        line-height: 1;
+        font-size: 16px;
+      }
+      .amc-sticky-close:hover {
+        background: #f7951b;
+        color: #fff;
+        border-color: #f7951b;
+      }
+      @media (max-width: 540px) {
+        #amc-sticky {
+          bottom: 16px;
+          right: 16px;
+        }
+        .amc-sticky-btn {
+          max-width: 240px;
+        }
+      }
+    </style>
+
+    <!-- ② CTA BANNER -->
+    <style>
+      #amc-ft-banner {
+        background: linear-gradient(
+          135deg,
+          #0d1117 0%,
+          #1a1a2e 60%,
+          #1e2456 100%
+        );
+        padding: 72px 32px;
+        text-align: center;
+        border-top: 4px solid #f7951b;
+        font-family: "Inter", Arial, Helvetica, sans-serif;
+      }
+      #amc-ft-banner .amc-ft-inner {
+        max-width: 760px;
+        margin: 0 auto;
+      }
+      #amc-ft-banner h2 {
+        font-size: clamp(1.5rem, 2.8vw, 2.1rem);
+        font-weight: 800;
+        color: #fff;
+        line-height: 1.3;
+        margin: 0 0 18px;
+        letter-spacing: -0.01em;
+      }
+      #amc-ft-banner h2 span {
+        color: #f7951b;
+      }
+      #amc-ft-banner p {
+        font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+        color: rgba(255, 255, 255, 0.78);
+        line-height: 1.75;
+        max-width: 640px;
+        margin: 0 auto 32px;
+      }
+      .amc-ft-banner-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        background: #f7951b;
+        color: #fff !important;
+        text-decoration: none;
+        padding: 16px 34px;
+        border-radius: 8px;
+        font-weight: 700;
+        font-size: 1rem;
+        font-family: "Inter", Arial, Helvetica, sans-serif;
+        transition:
+          background 0.25s,
+          transform 0.2s,
+          box-shadow 0.25s;
+        box-shadow: 0 4px 20px rgba(247, 149, 27, 0.4);
+        letter-spacing: 0.01em;
+      }
+      .amc-ft-banner-btn:hover {
+        background: #e07f10;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 28px rgba(247, 149, 27, 0.5);
+      }
+    </style>
+    <section id="amc-ft-banner">
+      <div class="amc-ft-inner">
+        <h2>
+          Move Forward with Your <span>Personalized Transition Plan</span>
+        </h2>
+        <p>
+          Find clarity and confidence for your Danbury or Fairfield County home
+          sale. Whether you&#8217;re navigating an inherited property,
+          downsizing, or a complex transition, you&#8217;ll have a clear,
+          step-by-step path designed around your needs.
+        </p>
+        <a
+          href="https://cloudattract.com/50d0ff"
+          class="amc-ft-banner-btn"
+          target="_blank"
+          rel="noopener"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+            <path
+              d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"
+            />
+            <polyline points="14 2 14 8 20 8" />
+            <line x1="16" y1="13" x2="8" y2="13" />
+            <line x1="16" y1="17" x2="8" y2="17" />
+          </svg>
+          Get My Free Transition Plan
+        </a>
+      </div>
+    </section>
+
+    <!-- ③ MAIN FOOTER -->
+    <style>
+      #amc-ft-main {
+        background: #1a1a2e;
+        padding: 60px 32px 52px;
+        font-family: "Inter", Arial, Helvetica, sans-serif;
+        color: rgba(255, 255, 255, 0.68);
+        font-size: 0.875rem;
+        line-height: 1.65;
+      }
+      #amc-ft-main .amc-ft-wrap {
+        max-width: 1280px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+      }
+
+      /* ── top row: logo/name | contact | social ── */
+      .amc-ft-top-row {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 48px;
+        align-items: start;
+        padding-bottom: 44px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        margin-bottom: 44px;
+      }
+
+      /* brand */
+      .amc-ft-logos {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        margin-bottom: 22px;
+        flex-wrap: wrap;
+      }
+      .amc-ft-logos img {
+        display: block;
+        max-height: 60px;
+        width: auto;
+      }
+      .amc-ft-biz-name {
+        font-size: 0.88rem;
+        font-weight: 700;
+        color: #fff;
+        line-height: 1.4;
+        margin: 0;
+      }
+      .amc-ft-biz-name span {
+        display: block;
+        font-weight: 400;
+        font-size: 0.78rem;
+        color: rgba(255, 255, 255, 0.44);
+        margin-top: 3px;
+      }
+
+      /* contact */
+      .amc-ft-contact-group {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+      }
+      .amc-ft-contact-item {
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+        margin-bottom: 12px;
+        color: rgba(255, 255, 255, 0.68);
+      }
+      .amc-ft-contact-item svg {
+        flex-shrink: 0;
+        color: #f7951b;
+        margin-top: 2px;
+      }
+      .amc-ft-contact-item a {
+        color: rgba(255, 255, 255, 0.68);
+        text-decoration: none;
+        transition: color 0.2s;
+      }
+      .amc-ft-contact-item a:hover {
+        color: #f7951b;
+      }
+
+      /* social */
+      .amc-ft-social-col {
+        min-width: 180px;
+      }
+      .amc-ft-social-heading {
+        font-size: 0.65rem;
+        font-weight: 700;
+        letter-spacing: 2.5px;
+        text-transform: uppercase;
+        color: #f7951b;
+        margin: 0 0 14px;
+      }
+      .amc-ft-socials {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        align-items: center;
+      }
+      .amc-ft-si {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        color: rgba(255, 255, 255, 0.42);
+        text-decoration: none;
+        transition:
+          color 0.2s,
+          transform 0.2s;
+        flex-shrink: 0;
+        line-height: 1;
+      }
+      .amc-ft-si:hover {
+        color: #f7951b;
+        transform: translateY(-2px);
+      }
+      .amc-ft-si svg {
+        display: block;
+      }
+
+      /* ── nav row: full width ── */
+      .amc-ft-nav-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 36px;
+        align-items: start;
+      }
+      .amc-ft-nav-col h4 {
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: #fff;
+        text-transform: uppercase;
+        letter-spacing: 1.2px;
+        margin: 0 0 14px;
+        white-space: nowrap;
+      }
+      .amc-ft-nav-col ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 11px;
+      }
+      .amc-ft-nav-col ul li a {
+        color: rgba(255, 255, 255, 0.56);
+        text-decoration: none;
+        font-size: 0.92rem;
+        line-height: 1.5;
+        transition: color 0.2s;
+      }
+      .amc-ft-nav-col ul li a:hover {
+        color: #f7951b;
+      }
+
+      /* responsive */
+      @media (max-width: 1024px) {
+        .amc-ft-top-row {
+          grid-template-columns: 1fr 1fr;
+          gap: 36px;
+        }
+        .amc-ft-social-col {
+          grid-column: 1 / -1;
+        }
+      }
+      @media (max-width: 860px) {
+        .amc-ft-nav-grid {
+          grid-template-columns: repeat(3, 1fr);
+          gap: 28px;
+        }
+      }
+      @media (max-width: 640px) {
+        #amc-ft-main {
+          padding: 44px 20px 36px;
+        }
+        .amc-ft-top-row {
+          grid-template-columns: 1fr;
+          gap: 28px;
+          padding-bottom: 32px;
+          margin-bottom: 32px;
+        }
+        .amc-ft-nav-grid {
+          grid-template-columns: 1fr 1fr;
+          gap: 22px;
+        }
+      }
+      @media (max-width: 380px) {
+        .amc-ft-nav-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+
+    <footer id="amc-ft-main">
+      <div class="amc-ft-wrap">
+        <!-- Top row: 3 columns → Logo/Name | Contact | Social -->
+        <div class="amc-ft-top-row">
+          <!-- Col 1: Logo + business name -->
+          <div>
+            <div class="amc-ft-logos">
+              <img
+                src="https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1214101/file_manager/Branding/MC%20Homes%20Real%20Estate%20logo%20_Trans.png"
+                alt="MC Homes Real Estate"
+                width="185"
+                height="61"
+              />
+              <img
+                src="https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1214101/file_manager/Branding/Voro%20logo.png"
+                alt="Voro"
+                width="52"
+                height="52"
+              />
+            </div>
+            <p class="amc-ft-biz-name">
+              MC Homes Real Estate &#8211; Mirna Chinchilla<span
+                >Local Realtor in Danbury, CT</span
+              >
+            </p>
+          </div>
+
+          <!-- Col 2: Contact details -->
+          <div class="amc-ft-contact-group">
+            <div class="amc-ft-contact-item">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="15"
+                height="15"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                <circle cx="12" cy="10" r="3" />
+              </svg>
+              <span>57 North Street, Danbury, CT 06810</span>
+            </div>
+            <div class="amc-ft-contact-item">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="15"
+                height="15"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path
+                  d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.6 1.22h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.8a16 16 0 0 0 6.29 6.29l.95-.95a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"
+                />
+              </svg>
+              <a href="tel:+12037449879">(203) 744-9879</a>
+            </div>
+            <div class="amc-ft-contact-item">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="15"
+                height="15"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path
+                  d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+                />
+                <polyline points="22,6 12,13 2,6" />
+              </svg>
+              <a href="mailto:mirna@homesdanbury.com">mirna@homesdanbury.com</a>
+            </div>
+            <div class="amc-ft-contact-item">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="15"
+                height="15"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <circle cx="12" cy="12" r="10" />
+                <line x1="2" y1="12" x2="22" y2="12" />
+                <path
+                  d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
+                />
+              </svg>
+              <a
+                href="https://www.homesdanbury.com"
+                target="_blank"
+                rel="noopener"
+                >www.homesdanbury.com</a
+              >
+            </div>
+          </div>
+
+          <!-- Col 3: Social icons -->
+          <div class="amc-ft-social-col">
+            <p class="amc-ft-social-heading">Follow Us</p>
+            <div class="amc-ft-socials">
+              <a
+                href="https://www.facebook.com/mchomesrealestate"
+                class="amc-ft-si"
+                target="_blank"
+                rel="noopener"
+                aria-label="Facebook"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="19"
+                  height="19"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"
+                  />
+                </svg>
+              </a>
+              <a
+                href="https://www.linkedin.com/in/mchomesrealestate/"
+                class="amc-ft-si"
+                target="_blank"
+                rel="noopener"
+                aria-label="LinkedIn"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="19"
+                  height="19"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"
+                  />
+                  <rect x="2" y="9" width="4" height="12" />
+                  <circle cx="4" cy="4" r="2" />
+                </svg>
+              </a>
+              <a
+                href="https://www.instagram.com/mchomesbuysell/"
+                class="amc-ft-si"
+                target="_blank"
+                rel="noopener"
+                aria-label="Instagram"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="19"
+                  height="19"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
+                  <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                  <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
+                </svg>
+              </a>
+              <a
+                href="https://www.youtube.com/@Mchomesrealestate"
+                class="amc-ft-si"
+                target="_blank"
+                rel="noopener"
+                aria-label="YouTube"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="19"
+                  height="19"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46a2.78 2.78 0 0 0-1.95 1.96A29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58A2.78 2.78 0 0 0 3.41 19.5C5.12 20 12 20 12 20s6.88 0 8.59-.46a2.78 2.78 0 0 0 1.95-1.96A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z"
+                  />
+                  <polygon
+                    points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02"
+                    fill="currentColor"
+                    stroke="none"
+                  />
+                </svg>
+              </a>
+              <a
+                href="https://www.google.com/maps/place/MC+Homes+Real+Estate+-+Mirna+Chinchilla+%7C+Connecticut+Real+Estate+Services/@41.4061414,-73.4585226,17z/data=!3m1!4b1!4m6!3m5!1s0x89e7ff5af9ad3151:0xf374bf7b618dc134!8m2!3d41.4061414!4d-73.4559477!16s%2Fg%2F11dxk5yb"
+                class="amc-ft-si"
+                target="_blank"
+                rel="noopener"
+                aria-label="Google Maps"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="19"
+                  height="19"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <circle cx="11" cy="11" r="8" />
+                  <line x1="21" y1="21" x2="16.65" y2="16.65" />
+                </svg>
+              </a>
+              <a
+                href="https://www.bing.com/search?q=MC+Homes+Real+Estate+-+Mirna+Chinchilla+%7C+Connecticut+Real+Estate+Services"
+                class="amc-ft-si"
+                target="_blank"
+                rel="noopener"
+                aria-label="Bing"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="150 150 800 700"
+                  width="19"
+                  height="19"
+                  style="fill: currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="m435 332 76.2 165.1 112.4 50.7-405.7 213.4 166.3-148v-422.5l-171.2-52.5v628.4l170.2 119.2 427.8-255v-183.7z"
+                  />
+                </svg>
+              </a>
+              <a
+                href="https://www.zillow.com/profile/mchomesrealestate"
+                class="amc-ft-si"
+                target="_blank"
+                rel="noopener"
+                aria-label="Zillow"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 26 26"
+                  width="19"
+                  height="19"
+                  style="fill: currentColor"
+                  aria-hidden="true"
+                >
+                  <g fill-rule="nonzero">
+                    <path
+                      d="m15.743 6.897c.117-.026.169.013.24.091.403.448 1.691 2.021 2.041 2.45.065.078.02.163-.032.208-2.6 2.028-5.493 4.901-7.105 6.955-.032.046-.006.046.02.039 2.808-1.209 9.405-3.14 12.376-3.679v-3.763l-11.628-9.198-11.648 9.191v4.114c3.607-2.144 11.953-5.466 15.736-6.408z"
+                    />
+                    <path
+                      d="m6.279 22.705c-.097.052-.176.039-.254-.039l-2.171-2.587c-.058-.072-.065-.111.013-.221 1.678-2.457 5.103-6.286 7.287-7.904.039-.026.026-.059-.02-.039-2.275.741-8.742 3.523-11.134 4.875v8.787h23.277v-8.462c-3.172.539-12.675 3.367-16.998 5.59z"
+                    />
+                  </g>
+                </svg>
+              </a>
+              <a
+                href="https://www.realtor.com/realestateagents/56b09b3d7e54f7010020c1ff"
+                class="amc-ft-si"
+                target="_blank"
+                rel="noopener"
+                aria-label="Realtor.com"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 262 262"
+                  width="19"
+                  height="19"
+                  style="fill: currentColor"
+                  aria-hidden="true"
+                >
+                  <g transform="translate(35.645351,228.96096)">
+                    <defs>
+                      <mask id="amc-ft-mask-r1">
+                        <rect
+                          fill="white"
+                          height="100%"
+                          width="100%"
+                          transform="translate(-35.645351,-228.96096)"
+                        />
+                        <path
+                          d="m 147.14106,-128.8854 a 22.086692,22.086692 0 0 0 -15.76531,-5.33126 c -11.04335,0 -18.05017,4.56966 -22.8483,8.53002 l -0.0748,0.0748 a 57.273078,57.273078 0 0 0 -14.851414,23.07677 l 0.304548,-12.41422 0.227404,-13.32818 c 0,-1.52332 -1.066206,-3.04646 -3.351094,-3.04646 H 47.827246 v 3.65572 l 1.142488,0.0748 c 3.503396,0.30454 6.85449,0.60938 9.900921,2.81807 2.665515,1.82787 4.265026,4.34119 4.798158,7.61609 0.913932,3.65573 0.913932,14.62292 0.913932,19.344909 v 62.223547 c 0,6.397525 -0.227404,15.07988 -1.142487,20.868106 -1.751584,5.7120903 -3.579563,7.4637887 -7.311457,9.3678186 a 25.894742,25.894742 0 0 1 -7.692257,1.9801382 l -1.21848,0.074842 V 0.35593881 H 111.42178 V -3.2997895 l -1.14249,-0.074842 c -2.58952,-0.2274036 -4.56966,-0.609384 -7.15915,-1.7515832 -1.90386,-0.6853771 -3.579565,-2.4372482 -5.331264,-5.6358953 -2.513241,-5.407455 -4.112694,-11.500316 -4.112694,-26.275561 v -25.894733 c 0,-7.920754 0.380829,-15.460679 0.609384,-18.811773 2.894099,-20.715803 14.165944,-37.318883 21.477404,-37.318883 2.81808,0 4.56966,3.04643 6.62599,7.92072 2.28469,5.55976 5.63593,11.500321 15.23221,11.500321 9.36779,0 14.31828,-7.920751 14.31828,-15.841481 0.0748,-5.33129 -1.52331,-9.74862 -4.79816,-13.40435 z"
+                          stroke="black"
+                          fill="black"
+                          stroke-width="7.61610126"
+                        />
+                      </mask>
+                    </defs>
+                    <path
+                      d="M 228.86182,-93.394379 96.722469,-228.96096 -35.645351,-93.318213 H 4.719992 V 28.310919 H 188.57264 V -93.394379 h 40.36535 z"
+                      stroke-width="7.61610126"
+                      mask="url(#amc-ft-mask-r1)"
+                    />
+                  </g>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Full-width nav row -->
+        <div class="amc-ft-nav-grid">
+          <div class="amc-ft-nav-col">
+            <h4>My Listings</h4>
+            <ul>
+              <li>
+                <a href="https://www.homesdanbury.com/my-active-listings"
+                  >Active Listings</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/my-sold-listings"
+                  >Sold Listings</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="amc-ft-nav-col">
+            <h4>Search</h4>
+            <ul>
+              <li>
+                <a href="https://www.homesdanbury.com/quick-search"
+                  >Quick Search</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/advanced-search"
+                  >Advanced Search</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/map-search-legacy"
+                  >Map Search</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/foreclosure-search"
+                  >Foreclosures</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="amc-ft-nav-col">
+            <h4>Communities</h4>
+            <ul>
+              <li>
+                <a href="https://www.homesdanbury.com/search-by-area"
+                  >Search by Area</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/search-by-property-type"
+                  >By Property Type</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/brookfield-homes"
+                  >Brookfield</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/danbury-homes">Danbury</a>
+              </li>
+            </ul>
+          </div>
+          <div class="amc-ft-nav-col">
+            <h4>Buyers</h4>
+            <ul>
+              <li><a href="https://www.homesdanbury.com/buying">Buying</a></li>
+              <li>
+                <a
+                  href="https://www.homesdanbury.com/-/Blog/tag/Tips%20for%20Buyers"
+                  >Tips for Buyers</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/dream-home-finder"
+                  >Dream Home Finder</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.homesdanbury.com/-/Blog/tag/Homeowner%20Information"
+                  >Homeowner Info</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="amc-ft-nav-col">
+            <h4>Sellers</h4>
+            <ul>
+              <li>
+                <a href="https://www.homesdanbury.com/seller-tips"
+                  >Seller&#8217;s Success Plan</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/free-market-analysis"
+                  >Free Market Analysis</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.homesdanbury.com/-/Blog/tag/Tips%20for%20Sellers"
+                  >Tips for Sellers</a
+                >
+              </li>
+              <li>
+                <a href="https://www.homesdanbury.com/profit-estimator"
+                  >Profit Estimator</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ④ REVIEWS -->
+    <style>
+      #amc-ft-reviews {
+        background: #f0f3f8;
+        padding: 52px 32px;
+        font-family: "Inter", Arial, Helvetica, sans-serif;
+        border-top: 1px solid #dde3ef;
+      }
+      #amc-ft-reviews .amc-ft-rv-wrap {
+        max-width: 1280px;
+        margin: 0 auto;
+      }
+      #amc-ft-reviews .amc-ft-rv-eyebrow {
+        display: block;
+        text-align: center;
+        font-size: 0.65rem;
+        font-weight: 700;
+        letter-spacing: 2.5px;
+        text-transform: uppercase;
+        color: #f7951b;
+        margin-bottom: 6px;
+      }
+      #amc-ft-reviews h3 {
+        text-align: center;
+        font-size: clamp(1.1rem, 1.8vw, 1.45rem);
+        font-weight: 800;
+        color: #1a1a2e;
+        margin: 0 0 28px;
+        line-height: 1.3;
+      }
+      .amc-ft-rv-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        align-items: start;
+      }
+      .amc-ft-rv-card {
+        background: #fff;
+        border: 1px solid #dde3ef;
+        border-radius: 12px;
+        padding: 20px 18px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        box-shadow: 0 2px 10px rgba(26, 26, 46, 0.05);
+      }
+      .amc-ft-rv-card-head {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .amc-ft-rv-card-icon {
+        width: 32px;
+        height: 32px;
+        border-radius: 7px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+      .amc-ft-rv-card-head h4 {
+        font-size: 0.9rem;
+        font-weight: 700;
+        color: #1a1a2e;
+        margin: 0;
+      }
+      .amc-ft-rv-card p {
+        font-size: 0.82rem;
+        color: #5a6278;
+        line-height: 1.6;
+        margin: 0;
+      }
+      .amc-ft-rv-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 7px;
+        background: #38529e;
+        color: #fff !important;
+        text-decoration: none;
+        padding: 10px 18px;
+        border-radius: 7px;
+        font-size: 0.82rem;
+        font-weight: 600;
+        font-family: "Inter", Arial, Helvetica, sans-serif;
+        transition:
+          background 0.2s,
+          transform 0.2s;
+        text-align: center;
+        box-sizing: border-box;
+      }
+      .amc-ft-rv-btn:hover {
+        background: #2c3f80;
+        transform: translateY(-1px);
+      }
+      .amc-ft-rv-card [data-embed-placeholder] {
+        max-height: 230px;
+        overflow-y: auto;
+      }
+      .amc-ft-rv-card iframe {
+        width: 100% !important;
+        border: none;
+        border-radius: 8px;
+        max-height: 230px !important;
+      }
+      @media (max-width: 860px) {
+        .amc-ft-rv-grid {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
+      @media (max-width: 560px) {
+        .amc-ft-rv-grid {
+          grid-template-columns: 1fr;
+        }
+        #amc-ft-reviews {
+          padding: 40px 20px;
+        }
+      }
+    </style>
+
+    <section id="amc-ft-reviews">
+      <div class="amc-ft-rv-wrap">
+        <span class="amc-ft-rv-eyebrow">What Clients Are Saying</span>
+        <h3>Verified Reviews from Real Clients</h3>
+        <div class="amc-ft-rv-grid">
+          <div class="amc-ft-rv-card">
+            <div class="amc-ft-rv-card-head">
+              <div class="amc-ft-rv-card-icon" style="background: #f7951b">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-width="2.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <circle cx="11" cy="11" r="8" />
+                  <line x1="21" y1="21" x2="16.65" y2="16.65" />
+                </svg>
+              </div>
+              <h4>Google Seller Testimonials</h4>
+            </div>
+            <div data-embed-placeholder="21769">
+              <script
+                defer
+                src="https://www.local-marketing-reports.com/external/showcase-reviews/embed/20137db69eb2c21c9975ac4b95791b5b8b3a5296?id=21769"
+              ></script>
+            </div>
+          </div>
+
+          <div class="amc-ft-rv-card">
+            <div class="amc-ft-rv-card-head">
+              <div class="amc-ft-rv-card-icon" style="background: #006aff">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 26 26"
+                  width="16"
+                  height="16"
+                  style="fill: #fff"
+                  aria-hidden="true"
+                >
+                  <g fill-rule="nonzero">
+                    <path
+                      d="m15.743 6.897c.117-.026.169.013.24.091.403.448 1.691 2.021 2.041 2.45.065.078.02.163-.032.208-2.6 2.028-5.493 4.901-7.105 6.955-.032.046-.006.046.02.039 2.808-1.209 9.405-3.14 12.376-3.679v-3.763l-11.628-9.198-11.648 9.191v4.114c3.607-2.144 11.953-5.466 15.736-6.408z"
+                    />
+                    <path
+                      d="m6.279 22.705c-.097.052-.176.039-.254-.039l-2.171-2.587c-.058-.072-.065-.111.013-.221 1.678-2.457 5.103-6.286 7.287-7.904.039-.026.026-.059-.02-.039-2.275.741-8.742 3.523-11.134 4.875v8.787h23.277v-8.462c-3.172.539-12.675 3.367-16.998 5.59z"
+                    />
+                  </g>
+                </svg>
+              </div>
+              <h4>Zillow Reviews</h4>
+            </div>
+            <p>
+              Read verified reviews from homeowners who worked with MC Homes
+              Real Estate in Danbury and Fairfield County.
+            </p>
+            <a
+              href="https://www.zillow.com/profile/mchomesrealestate#reviews"
+              class="amc-ft-rv-btn"
+              rel="noopener"
+              target="_blank"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="13"
+                height="13"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path
+                  d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"
+                />
+                <polyline points="15 3 21 3 21 9" />
+                <line x1="10" y1="14" x2="21" y2="3" />
+              </svg>
+              View Zillow Reviews
+            </a>
+          </div>
+
+          <div class="amc-ft-rv-card">
+            <div class="amc-ft-rv-card-head">
+              <div class="amc-ft-rv-card-icon" style="background: #d92228">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 262 262"
+                  width="16"
+                  height="16"
+                  style="fill: #fff"
+                  aria-hidden="true"
+                >
+                  <g transform="translate(35.645351,228.96096)">
+                    <defs>
+                      <mask id="amc-ft-mask-r3">
+                        <rect
+                          fill="white"
+                          height="100%"
+                          width="100%"
+                          transform="translate(-35.645351,-228.96096)"
+                        />
+                        <path
+                          d="m 147.14106,-128.8854 a 22.086692,22.086692 0 0 0 -15.76531,-5.33126 c -11.04335,0 -18.05017,4.56966 -22.8483,8.53002 l -0.0748,0.0748 a 57.273078,57.273078 0 0 0 -14.851414,23.07677 l 0.304548,-12.41422 0.227404,-13.32818 c 0,-1.52332 -1.066206,-3.04646 -3.351094,-3.04646 H 47.827246 v 3.65572 l 1.142488,0.0748 c 3.503396,0.30454 6.85449,0.60938 9.900921,2.81807 2.665515,1.82787 4.265026,4.34119 4.798158,7.61609 0.913932,3.65573 0.913932,14.62292 0.913932,19.344909 v 62.223547 c 0,6.397525 -0.227404,15.07988 -1.142487,20.868106 -1.751584,5.7120903 -3.579563,7.4637887 -7.311457,9.3678186 a 25.894742,25.894742 0 0 1 -7.692257,1.9801382 l -1.21848,0.074842 V 0.35593881 H 111.42178 V -3.2997895 l -1.14249,-0.074842 c -2.58952,-0.2274036 -4.56966,-0.609384 -7.15915,-1.7515832 -1.90386,-0.6853771 -3.579565,-2.4372482 -5.331264,-5.6358953 -2.513241,-5.407455 -4.112694,-11.500316 -4.112694,-26.275561 v -25.894733 c 0,-7.920754 0.380829,-15.460679 0.609384,-18.811773 2.894099,-20.715803 14.165944,-37.318883 21.477404,-37.318883 2.81808,0 4.56966,3.04643 6.62599,7.92072 2.28469,5.55976 5.63593,11.500321 15.23221,11.500321 9.36779,0 14.31828,-7.920751 14.31828,-15.841481 0.0748,-5.33129 -1.52331,-9.74862 -4.79816,-13.40435 z"
+                          stroke="black"
+                          fill="black"
+                          stroke-width="7.61610126"
+                        />
+                      </mask>
+                    </defs>
+                    <path
+                      d="M 228.86182,-93.394379 96.722469,-228.96096 -35.645351,-93.318213 H 4.719992 V 28.310919 H 188.57264 V -93.394379 h 40.36535 z"
+                      stroke-width="7.61610126"
+                      mask="url(#amc-ft-mask-r3)"
+                    />
+                  </g>
+                </svg>
+              </div>
+              <h4>Realtor.com Reviews</h4>
+            </div>
+            <p>
+              See what real clients have said about Mirna Chinchilla, from
+              first-time buyers to repeat probate sellers.
+            </p>
+            <a
+              href="https://www.realtor.com/realestateagents/56b09b3d7e54f7010020c1ff#ratings-and-reviews"
+              class="amc-ft-rv-btn"
+              rel="noopener"
+              target="_blank"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="13"
+                height="13"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path
+                  d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"
+                />
+                <polyline points="15 3 21 3 21 9" />
+                <line x1="10" y1="14" x2="21" y2="3" />
+              </svg>
+              View Realtor Reviews
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ⑤ BOTTOM BAR -->
+    <style>
+      #amc-ft-bottom {
+        background: #0d1117;
+        padding: 24px 32px;
+        font-family: "Inter", Arial, Helvetica, sans-serif;
+        border-top: 1px solid rgba(255, 255, 255, 0.07);
+      }
+      #amc-ft-bottom .amc-ft-bot-wrap {
+        max-width: 1280px;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+      }
+      .amc-ft-legal-links {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        flex-wrap: wrap;
+      }
+      .amc-ft-legal-links a {
+        color: rgba(255, 255, 255, 0.42);
+        text-decoration: none;
+        font-size: 0.76rem;
+        padding: 3px 7px;
+        border-radius: 4px;
+        transition:
+          color 0.2s,
+          background 0.2s;
+      }
+      .amc-ft-legal-links a:hover {
+        color: #f7951b;
+        background: rgba(247, 149, 27, 0.1);
+      }
+      .amc-ft-legal-links .amc-ft-pipe {
+        color: rgba(255, 255, 255, 0.18);
+        font-size: 0.76rem;
+      }
+      .amc-ft-designations {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        flex-wrap: wrap;
+      }
+      .amc-ft-designations a {
+        color: rgba(255, 255, 255, 0.38);
+        text-decoration: none;
+        font-size: 0.73rem;
+        transition: color 0.2s;
+      }
+      .amc-ft-designations a:hover {
+        color: #f7951b;
+      }
+      .amc-ft-designations img {
+        display: block;
+        opacity: 0.6;
+        transition: opacity 0.2s;
+      }
+      .amc-ft-designations img:hover {
+        opacity: 1;
+      }
+      @media (max-width: 680px) {
+        #amc-ft-bottom .amc-ft-bot-wrap {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+        #amc-ft-bottom {
+          padding: 20px 20px 26px;
+        }
+      }
+    </style>
+
+    <div id="amc-ft-bottom">
+      <div class="amc-ft-bot-wrap">
+        <div class="amc-ft-legal-links">
+          <a href="https://www.homesdanbury.com/-/Home/privacy/"
+            >Privacy Policy</a
+          >
+          <span class="amc-ft-pipe">|</span>
+          <a href="https://www.homesdanbury.com/-/Home/dmca/">DMCA</a>
+        </div>
+        <div class="amc-ft-designations">
+          <a
+            href="https://www.blogger.com/profile/02238284730818188198"
+            target="notSet"
+            rel="noopener"
+            >Google Blogger</a
+          >
+          <img
+            alt="Equal Housing Opportunity"
+            src="https://storage.googleapis.com/library-gs.ihouseprd.com/designations/small/white/equal-housing-opportunity.png"
+            width="34"
+            height="45"
+            loading="lazy"
+          />
+          <img
+            alt="Realtor"
+            src="https://storage.googleapis.com/library-gs.ihouseprd.com/designations/small/white/realtor.png"
+            width="38"
+            height="45"
+            loading="lazy"
+          />
+          <img
+            alt="MLS"
+            src="https://storage.googleapis.com/library-gs.ihouseprd.com/designations/small/white/mls.png"
+            width="66"
+            height="32"
+            loading="lazy"
+          />
+        </div>
+      </div>
+    </div>
+
+    <!-- PASTE END -->
+  </body>
+</html>
