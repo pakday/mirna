@@ -1,0 +1,355 @@
+I see this below content in footer of my client site like for now these three column content
+
+---------
+
+<img alt="" src="https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1214101/file_manager/Branding/MC%20Homes%20Real%20Estate%20logo%20_Trans.png" style="width: 302px; height: 100px;" /><img alt="" src="https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1214101/file_manager/Branding/Voro%20logo.png" style="width: 100px; height: 100px;" />
+
+<strong>MC Homes Real Estate &ndash; Mirna Chinchilla, Local Realtor in Danbury, CT</strong><br />
+57 North Street, Danbury, CT 06810<br />
+📞 (203) 744-9879<br />
+📧 <a href="mailto:mirna@homesdanbury.com">mirna@homesdanbury.com</a><br />
+🌐 <a href="https://www.homesdanbury.com" rel="noopener" target="_blank">www.homesdanbury.com</a>
+<div style="text-align:center; margin:50px 0; font-family:'Noto Sans', sans-serif; background-color:#000; padding:40px 20px;">
+<h3 style="font-size:26px; color:#fff; margin-bottom:16px; line-height:1.4;"><strong>Move Forward with Your Personalized Transition Plan</strong></h3>
+
+<p style="font-size:16px; color:#fff; max-width:720px; margin:0 auto; line-height:1.6;">Find clarity and confidence for your Danbury or Fairfield County home sale. Whether you&rsquo;re navigating an inherited property, downsizing, or a complex transition, you&rsquo;ll have a clear, step-by-step path designed around your needs.</p>
+</div>
+<a href="https://cloudattract.com/50d0ff" style="
+     position: fixed;
+     bottom: 15px;
+     left: 50%;
+     transform: translateX(-50%);
+     background-color: #0f89d1;
+     color: white;
+     padding: 16px 28px;
+     font-size: 18px;
+     font-weight: bold;
+     text-decoration: none;
+     border-radius: 6px;
+     display: block;
+     box-shadow: 0 6px 16px rgba(0,0,0,0.25);
+     z-index: 9999;
+     max-width: 90%;
+     text-align: center;
+     font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+     transition: background-color 0.3s ease;
+   " target="_blank"> 👉 Thinking of Downzising get a Detailed Home Market Report </a>
+
+
+
+
+
+
+
+ enable
+   URL: 
+https://www.facebook.com/mchomesrealestate
+ enable
+   URL: 
+http://x.com
+ enable
+   URL: 
+https://www.linkedin.com/in/mchomesrealestate/
+ enable
+   URL: 
+https://www.instagram.com/mchomesbuysell/
+ enable
+   URL: 
+https://www.youtube.com/@Mchomesrealestate
+ enable
+   URL: 
+http://pinterest.com
+ enable
+   URL: 
+http://tiktok.com
+ enable
+   URL: 
+http://www.whatsapp.com
+ enable
+   URL: 
+https://www.google.com/maps/place/MC+Homes+Real+Estate+-+Mirna+Chinchilla+%7C+Connecticut+Real+Estate+Services/@41.4061414,-73.4585226,17z/data=!3m1!4b1!4m6!3m5!1s0x89e7ff5af9ad3151:0xf374bf7b618dc134!8m2!3d41.4061414!4d-73.4559477!16s%2Fg%2F11dxk5yb
+ enable
+   URL: 
+https://www.bing.com/search?pglt=425&q=MC+Homes+Real+Estate+-+Mirna+Chinchilla+%7C+Connecticut+Real+Estate+Services&cvid=85f19b7af0324cc88e0a0fcd2cebfccc&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRg8MgYIAhBFGD3SAQgyNjU4ajBqMagCALACAA&FORM=ANNTA1&P
+ enable
+   URL: 
+https://www.zillow.com/profile/mchomesrealestate
+ enable
+   URL: 
+https://www.realtor.com/realestateagents/56b09b3d7e54f7010020c1ff
+ enable
+   URL: 
+http://www.trulia.com
+
+
+
+---------------
+
+
+Flex Review Widgets
+
+<style type="text/css">.review-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px; /* reduced spacing */
+    justify-content: center;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1400px; /* slightly reduced */
+    font-family: Arial, sans-serif;
+  }
+
+  .review-box {
+    flex: 1 1 260px; /* smaller base width */
+    background-color: #f9f9f9;
+    padding: 14px 12px; /* reduced padding */
+    text-align: center;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .review-box h2 {
+    font-size: 16px; /* smaller heading */
+    margin-bottom: 10px;
+    color: #222;
+    line-height: 1.3;
+  }
+
+  .review-box p {
+    font-size: 13px; /* smaller body text */
+    color: #555;
+    margin-bottom: 12px;
+    line-height: 1.4;
+  }
+
+  .review-box a {
+    background-color: #006AFF;
+    color: #ffffff !important;
+    font-weight: bold;
+    padding: 8px 14px; /* smaller button */
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 13px;
+  }
+
+  .review-box.realtor a {
+    background-color: #0073e6;
+  }
+
+  /* Shrink embedded review widget */
+  [data-embed-placeholder] {
+    max-height: 260px; /* reduced from 350px */
+    overflow-y: auto;
+  }
+
+  /* Tablet & mobile adjustments */
+  @media (max-width: 1024px) {
+    .review-row {
+      width: 95%;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .review-box {
+      flex: 1 1 100%;
+    }
+  }
+</style>
+<div class="review-row">
+<div class="review-box" style="background-color:#ffffff;">
+<h2>Google Seller Testimonials</h2>
+
+<div data-embed-placeholder="21769"><script defer src="https://www.local-marketing-reports.com/external/showcase-reviews/embed/20137db69eb2c21c9975ac4b95791b5b8b3a5296?id=21769"></script></div>
+</div>
+
+<div class="review-box">
+<h2>Zillow Reviews</h2>
+
+<p>Read verified reviews from homeowners who worked with MC Homes Real Estate in Danbury and Fairfield County.</p>
+<a href="https://www.zillow.com/profile/mchomesrealestate#reviews" rel="noopener" target="_blank">View Zillow Reviews </a></div>
+
+<div class="review-box realtor">
+<h2>Realtor.com Reviews</h2>
+
+<p>See what real clients have said about Mirna Chinchilla, from first-time buyers to repeat probate sellers.</p>
+<a href="https://www.realtor.com/realestateagents/56b09b3d7e54f7010020c1ff#ratings-and-reviews" rel="noopener" target="_blank">View Realtor Reviews </a></div>
+</div>
+
+
+
+
+----------------
+
+
+
+Privacy Policy Link
+
+<p id="FooterLinks" style="text-align:center"><a class="footer-link" href="/-/Home/privacy/"><span>Privacy Policy</span></a> | <a class="footer-link" href="/-/Home/dmca/"><span>DMCA</span></a></p>
+
+
+----
+
+designations-white
+
+
+<p class="designations" style="text-align:center;"><a href="https://www.blogger.com/profile/02238284730818188198" target="notSet">Google blogger</a><img alt="house" height="78" src="https://storage.googleapis.com/library-gs.ihouseprd.com/designations/small/white/equal-housing-opportunity.png" width="60" /> <img alt="realtor" height="78" src="https://storage.googleapis.com/library-gs.ihouseprd.com/designations/small/white/realtor.png" width="68" /> <img alt="mls" height="56" src="https://storage.googleapis.com/library-gs.ihouseprd.com/designations/small/white/mls.png" width="115" /></p>
+
+
+
+
+--------------------
+
+I want to redesign this footer content please don't remove content any of them. I want everything in footer and make footer responsive and more user friendly. I promised my cilient i'll design footer too so please do this for me and also i see some of the icons don't have social profile so skipp that social icon with just social site link
+
+
+
+
+
+
+
+now i am pasting how html is loaded on frontend of site when shown footer just for content. Please i don't want any ui information from this . i want you to design as you like
+
+---
+
+<div data-content-block-id="6a0243b8b7f9d35a760c6209" data-content-block-name="Footer Wrapper" class="css-ubl4ia-no-styles" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><div data-content-block-id="6a0243b8b7f9d35a760c620a" data-content-block-name="Footer Wrapper" id="FooterWrapper" class="custom-footer css-ubl4ia-no-styles" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><div data-content-block-id="6a0243b8b7f9d35a760c6210" data-content-block-name="Region 30" id="FooterBackground" class="css-ubl4ia-no-styles" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><div class="ih-block widget customContent-widget css-1xdhyk6"><div class="ih-block-content widget-content customContent-widget-content"><div class="css-1dp0fhs-no-styles" data-content-block-id="6a0243b8b7f9d35a760c6217" data-content-block-name="" location="[object Object]" match="[object Object]">Add your content here!
+</div></div></div></div><div data-content-block-id="6a0243b8b7f9d35a760c620b" data-content-block-name="Footer Container" id="FooterContent" class="css-ubl4ia-no-styles container-fluid"><div data-content-block-id="6a0243b8b7f9d35a760c6218" data-content-block-name="" class="css-ubl4ia-no-styles row"><div data-content-block-id="6a0243b8b7f9d35a760c621a" data-content-block-name="" class="pt-3 pb-0 pl-2 pr-2 css-ubl4ia-no-styles container"><div data-content-block-id="6a0243b8b7f9d35a760c620d" data-content-block-name="Footer Row 1" id="FooterRow1" class="css-ubl4ia-no-styles row"><div class="col col-12 col-md-6 col-lg-4 css-ubl4ia-no-styles" data-content-block-id="6a0243b8b7f9d35a760c6211" data-content-block-name="Region 31" id="Region31"><div class="ih-block widget customContent-widget css-1xdhyk6"><div class="ih-block-content widget-content customContent-widget-content"><div class="css-1dp0fhs-no-styles" data-content-block-id="6a0243b8b7f9d35a760c621c" data-content-block-name="" location="[object Object]" match="[object Object]"><img alt="" src="https://idx-acnt-ihouseprd.b-cdn.net/AR1214101/file_manager/Branding/MC%20Homes%20Real%20Estate%20logo%20_Trans.png?width=302&amp;height=100&amp;aspect_ratio=302%3A100" style="width: 302px; height: 100px;" srcset="https://idx-acnt-ihouseprd.b-cdn.net/AR1214101/file_manager/Branding/MC%20Homes%20Real%20Estate%20logo%20_Trans.png?width=604&amp;height=200&amp;aspect_ratio=302%3A100 2x"><img alt="" src="https://idx-acnt-ihouseprd.b-cdn.net/AR1214101/file_manager/Branding/Voro%20logo.png?width=100&amp;height=100&amp;aspect_ratio=100%3A100" style="width: 100px; height: 100px;" srcset="https://idx-acnt-ihouseprd.b-cdn.net/AR1214101/file_manager/Branding/Voro%20logo.png?width=200&amp;height=200&amp;aspect_ratio=100%3A100 2x">
+</div></div></div></div><div class="col col-12 col-md-6 col-lg-5 css-ubl4ia-no-styles" data-content-block-id="6a0243b8b7f9d35a760c6212" data-content-block-name="Region 32" id="Region32"><div class="ih-block widget customContent-widget css-1xdhyk6"><div class="ih-block-content widget-content customContent-widget-content"><div class="css-1dp0fhs-no-styles" data-content-block-id="6a0243b8b7f9d35a760c621e" data-content-block-name="" location="[object Object]" match="[object Object]"><strong>MC Homes Real Estate – Mirna Chinchilla, Local Realtor in Danbury, CT</strong><br>
+57 North Street, Danbury, CT 06810<br>
+📞 (203) 744-9879<br>
+📧 <a href="mailto:mirna@homesdanbury.com">mirna@homesdanbury.com</a><br>
+🌐 <a href="https://www.homesdanbury.com" rel="noopener" target="_blank">www.homesdanbury.com</a>
+<div style="text-align:center; margin:50px 0; font-family:'Noto Sans', sans-serif; background-color:#000; padding:40px 20px;">
+<h3 style="font-size:26px; color:#fff; margin-bottom:16px; line-height:1.4;"><strong>Move Forward with Your Personalized Transition Plan</strong></h3>
+
+<p style="font-size:16px; color:#fff; max-width:720px; margin:0 auto; line-height:1.6;">Find clarity and confidence for your Danbury or Fairfield County home sale. Whether you’re navigating an inherited property, downsizing, or a complex transition, you’ll have a clear, step-by-step path designed around your needs.</p>
+</div>
+<a href="https://cloudattract.com/50d0ff" style="
+     position: fixed;
+     bottom: 15px;
+     left: 50%;
+     transform: translateX(-50%);
+     background-color: #0f89d1;
+     color: white;
+     padding: 16px 28px;
+     font-size: 18px;
+     font-weight: bold;
+     text-decoration: none;
+     border-radius: 6px;
+     display: block;
+     box-shadow: 0 6px 16px rgba(0,0,0,0.25);
+     z-index: 9999;
+     max-width: 90%;
+     text-align: center;
+     font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+     transition: background-color 0.3s ease;
+   " target="_blank"> 👉 Thinking of Downzising get a Detailed Home Market Report </a>
+</div></div></div></div><div class="col col-12 col-md-6 col-lg-3 css-ubl4ia-no-styles" data-content-block-id="6a0243b8b7f9d35a760c6213" data-content-block-name="Region 33" id="Region33"><div class="ih-block widget socialIcons-widget css-1xdhyk6"><div class="ih-block-content widget-content socialIcons-widget-content"><div class="social-icons-list css-ubl4ia-no-styles" data-content-block-id="6a0243b8b7f9d35a760c6220" data-content-block-name="Social Icons"><p><div class="social-icon social-icon-facebook css-1aj2bb3 has-stretched-link hover-context" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><a href="https://www.facebook.com/mchomesrealestate" target="_blank" class="stretched-link" aria-label="Facebook" style="position: absolute; inset: 0px;"></a><div type="icon" class="mr-1 ml-auto css-1qqdnhr-icon"><i class="fa-brands fa-facebook-f" style="position: relative;"></i></div><span class="sr-only">Facebook</span></div><div class="social-icon social-icon-linkedin css-1aj2bb3 has-stretched-link hover-context" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><a href="https://www.linkedin.com/in/mchomesrealestate/" target="_blank" class="stretched-link" aria-label="LinkedIn" style="position: absolute; inset: 0px;"></a><div type="icon" class="mr-1 ml-1 css-1qqdnhr-icon"><i class="fa-brands fa-linkedin-in" style="position: relative;"></i></div><span class="sr-only">LinkedIn</span></div><div class="social-icon social-icon-instagram css-1aj2bb3 has-stretched-link hover-context" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><a href="https://www.instagram.com/mchomesbuysell/" target="_blank" class="stretched-link" aria-label="Instagram" style="position: absolute; inset: 0px;"></a><div type="icon" class="mr-1 ml-1 css-1qqdnhr-icon"><i class="fa-brands fa-instagram" style="position: relative;"></i></div><span class="sr-only">Instagram</span></div><div class="social-icon social-icon-youtube css-1aj2bb3 has-stretched-link hover-context" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><a href="https://www.youtube.com/@Mchomesrealestate" target="_blank" class="stretched-link" aria-label="YouTube" style="position: absolute; inset: 0px;"></a><div type="icon" class="mr-1 ml-1 css-1qqdnhr-icon"><i class="fa-brands fa-youtube" style="position: relative;"></i></div><span class="sr-only">YouTube</span></div><div class="social-icon social-icon-google css-1aj2bb3 has-stretched-link hover-context" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><a href="https://www.google.com/maps/place/MC+Homes+Real+Estate+-+Mirna+Chinchilla+%7C+Connecticut+Real+Estate+Services/@41.4061414,-73.4585226,17z/data=!3m1!4b1!4m6!3m5!1s0x89e7ff5af9ad3151:0xf374bf7b618dc134!8m2!3d41.4061414!4d-73.4559477!16s%2Fg%2F11dxk5yb" target="_blank" class="stretched-link" aria-label="Google" style="position: absolute; inset: 0px;"></a><div type="icon" class="mr-1 ml-1 css-1qqdnhr-icon"><i class="fa-brands fa-google" style="position: relative;"></i></div><span class="sr-only">Google</span></div><div class="social-icon social-icon-bing css-1aj2bb3 has-stretched-link hover-context" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><a href="https://www.bing.com/search?pglt=425&amp;q=MC+Homes+Real+Estate+-+Mirna+Chinchilla+%7C+Connecticut+Real+Estate+Services&amp;cvid=85f19b7af0324cc88e0a0fcd2cebfccc&amp;gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRg8MgYIAhBFGD3SAQgyNjU4ajBqMagCALACAA&amp;FORM=ANNTA1&amp;P" target="_blank" class="stretched-link" aria-label="Bing" style="position: absolute; inset: 0px;"></a><div type="icon" class="mr-1 ml-1 css-1qqdnhr-icon"><svg xmlns="http://www.w3.org/2000/svg" focusable="false" viewBox="150 150 800 700" role="img" style="fill: currentcolor; overflow: auto; max-height: -webkit-fill-available; display: flex; flex-grow: 1; flex-shrink: 0;"><path d="m435 332 76.2 165.1 112.4 50.7-405.7 213.4 166.3-148v-422.5l-171.2-52.5v628.4l170.2 119.2 427.8-255v-183.7z"></path></svg></div><span class="sr-only">Bing</span></div><div class="social-icon social-icon-zillow css-1aj2bb3 has-stretched-link hover-context" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><a href="https://www.zillow.com/profile/mchomesrealestate" target="_blank" class="stretched-link" aria-label="Zillow" style="position: absolute; inset: 0px;"></a><div type="icon" class="mr-1 ml-1 css-1qqdnhr-icon"><svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 26 26" style="fill: currentcolor; overflow: auto; max-height: -webkit-fill-available; display: flex; flex-grow: 1; flex-shrink: 0;"><g fill-rule="nonzero"><path d="m15.743 6.897c.117-.026.169.013.24.091.403.448 1.691 2.021 2.041 2.45.065.078.02.163-.032.208-2.6 2.028-5.493 4.901-7.105 6.955-.032.046-.006.046.02.039 2.808-1.209 9.405-3.14 12.376-3.679v-3.763l-11.628-9.198-11.648 9.191v4.114c3.607-2.144 11.953-5.466 15.736-6.408z"></path><path d="m6.279 22.705c-.097.052-.176.039-.254-.039l-2.171-2.587c-.058-.072-.065-.111.013-.221 1.678-2.457 5.103-6.286 7.287-7.904.039-.026.026-.059-.02-.039-2.275.741-8.742 3.523-11.134 4.875v8.787h23.277v-8.462c-3.172.539-12.675 3.367-16.998 5.59z"></path></g></svg></div><span class="sr-only">Zillow</span></div><div class="social-icon social-icon-realtor css-1aj2bb3 has-stretched-link hover-context" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><a href="https://www.realtor.com/realestateagents/56b09b3d7e54f7010020c1ff" target="_blank" class="stretched-link" aria-label="Realtor" style="position: absolute; inset: 0px;"></a><div type="icon" class="mr-auto ml-1 css-1qqdnhr-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 262 262" style="fill: currentcolor; overflow: auto; max-height: -webkit-fill-available; display: flex; flex-grow: 1; flex-shrink: 0;"><g id="layer1" transform="translate(35.645351,228.96096)"><defs><mask id="cutout-r"><rect fill="white" height="100%" width="100%" transform="translate(-35.645351,-228.96096)"></rect><path d="m 147.14106,-128.8854 a 22.086692,22.086692 0 0 0 -15.76531,-5.33126 c -11.04335,0 -18.05017,4.56966 -22.8483,8.53002 l -0.0748,0.0748 a 57.273078,57.273078 0 0 0 -14.851414,23.07677 l 0.304548,-12.41422 0.227404,-13.32818 c 0,-1.52332 -1.066206,-3.04646 -3.351094,-3.04646 H 47.827246 v 3.65572 l 1.142488,0.0748 c 3.503396,0.30454 6.85449,0.60938 9.900921,2.81807 2.665515,1.82787 4.265026,4.34119 4.798158,7.61609 0.913932,3.65573 0.913932,14.62292 0.913932,19.344909 v 62.223547 c 0,6.397525 -0.227404,15.07988 -1.142487,20.868106 -1.751584,5.7120903 -3.579563,7.4637887 -7.311457,9.3678186 a 25.894742,25.894742 0 0 1 -7.692257,1.9801382 l -1.21848,0.074842 V 0.35593881 H 111.42178 V -3.2997895 l -1.14249,-0.074842 c -2.58952,-0.2274036 -4.56966,-0.609384 -7.15915,-1.7515832 -1.90386,-0.6853771 -3.579565,-2.4372482 -5.331264,-5.6358953 -2.513241,-5.407455 -4.112694,-11.500316 -4.112694,-26.275561 v -25.894733 c 0,-7.920754 0.380829,-15.460679 0.609384,-18.811773 2.894099,-20.715803 14.165944,-37.318883 21.477404,-37.318883 2.81808,0 4.56966,3.04643 6.62599,7.92072 2.28469,5.55976 5.63593,11.500321 15.23221,11.500321 9.36779,0 14.31828,-7.920751 14.31828,-15.841481 0.0748,-5.33129 -1.52331,-9.74862 -4.79816,-13.40435 z" stroke="black" fill="black" stroke-width="7.61610126"></path></mask></defs><path d="M 228.86182,-93.394379 96.722469,-228.96096 -35.645351,-93.318213 H 4.719992 V 28.310919 H 188.57264 V -93.394379 h 40.36535 z" id="path57157" stroke-width="7.61610126" mask="url(#cutout-r)"></path></g></svg></div><span class="sr-only">Realtor</span></div></p></div></div></div></div></div><div data-content-block-id="6a0243b8b7f9d35a760c620e" data-content-block-name="Footer Row 2" id="FooterRow2" class="css-ubl4ia-no-styles row"><div class="col col-12 css-ubl4ia-no-styles" data-content-block-id="6a0243b8b7f9d35a760c6215" data-content-block-name="Region 35" id="Region35"><div class="ih-block widget flex-widget css-1xdhyk6"><div class="ih-block-content widget-content flex-widget-content"><div data-content-block-id="69739d421057cebeada46837" data-content-block-name="Wrapper" class="mb-2 css-dae9t2-wrapper" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"><div class="mb-2 css-1dp0fhs-no-styles" data-content-block-id="69739d441057cebeada46838" data-content-block-name="Custom Content" location="[object Object]" match="[object Object]"><style type="text/css">
+  .review-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px; /* reduced spacing */
+    justify-content: center;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1400px; /* slightly reduced */
+    font-family: Arial, sans-serif;
+  }
+
+  .review-box {
+    flex: 1 1 260px; /* smaller base width */
+    background-color: #f9f9f9;
+    padding: 14px 12px; /* reduced padding */
+    text-align: center;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .review-box h2 {
+    font-size: 16px; /* smaller heading */
+    margin-bottom: 10px;
+    color: #222;
+    line-height: 1.3;
+  }
+
+  .review-box p {
+    font-size: 13px; /* smaller body text */
+    color: #555;
+    margin-bottom: 12px;
+    line-height: 1.4;
+  }
+
+  .review-box a {
+    background-color: #006AFF;
+    color: #ffffff !important;
+    font-weight: bold;
+    padding: 8px 14px; /* smaller button */
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 13px;
+  }
+
+  .review-box.realtor a {
+    background-color: #0073e6;
+  }
+
+  /* Shrink embedded review widget */
+  [data-embed-placeholder] {
+    max-height: 260px; /* reduced from 350px */
+    overflow-y: auto;
+  }
+
+  /* Tablet & mobile adjustments */
+  @media (max-width: 1024px) {
+    .review-row {
+      width: 95%;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .review-box {
+      flex: 1 1 100%;
+    }
+  }
+</style>
+
+<div class="review-row">
+
+  <div class="review-box" style="background-color:#ffffff;">
+    <h2>Google Seller Testimonials</h2>
+    <iframe src="https://www.local-marketing-reports.com/external/showcase-reviews/widgets/20137db69eb2c21c9975ac4b95791b5b8b3a5296" title="Customer Reviews" loading="lazy" id="custom-review-iframe-21769" style="width: 100% !important; max-width: 100% !important; vertical-align: top !important; border: 0px solid transparent !important; border-radius: 5px !important; box-shadow: transparent 0px 0px 0px 0px !important; box-sizing: border-box !important; height: 426px !important; max-height: 426px !important; display: block !important; overflow: hidden auto !important; transition: height 0.3s !important;"></iframe><script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","name":"MC Homes Real Estate - Mirna Chinchilla","address":{"@type":"PostalAddress","streetAddress":"57 North Street","addressLocality":"Danbury","addressRegion":"Connecticut","postalCode":"06810"},"telephone":"+1 203-744-9879","url":"https://www.homesdanbury.com/"}</script><div data-embed-placeholder="21769">
+      <script defer="" src="https://www.local-marketing-reports.com/external/showcase-reviews/embed/20137db69eb2c21c9975ac4b95791b5b8b3a5296?id=21769"></script>
+    </div>
+  </div>
+
+  <div class="review-box">
+    <h2>Zillow Reviews</h2>
+    <p>Read verified reviews from homeowners who worked with MC Homes Real Estate in Danbury and Fairfield County.</p>
+    <a href="https://www.zillow.com/profile/mchomesrealestate#reviews" rel="noopener" target="_blank">
+      View Zillow Reviews
+    </a>
+  </div>
+
+  <div class="review-box realtor">
+    <h2>Realtor.com Reviews</h2>
+    <p>See what real clients have said about Mirna Chinchilla, from first-time buyers to repeat probate sellers.</p>
+    <a href="https://www.realtor.com/realestateagents/56b09b3d7e54f7010020c1ff#ratings-and-reviews" rel="noopener" target="_blank">
+      View Realtor Reviews
+    </a>
+  </div>
+
+</div>
+</div></div></div></div><div class="ih-block widget flex-widget css-1xdhyk6"><div class="ih-block-content widget-content flex-widget-content"><div data-content-block-id="687ac293e6456b4cb80d4ce3" data-content-block-name="Row" class="css-ubl4ia-no-styles row"><div data-content-block-id="687ac293e6456b4cb80d4ce4" data-content-block-name="Container" class="mb-0 css-ubl4ia-no-styles container"><div data-content-block-id="687ac293e6456b4cb80d4ce5" data-content-block-name="Wrapper" class="mb-3 bg-custom mt-0 css-16qu1sg-wrapper" style="font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif;"></div><nav class="css-o528s1-no-styles" style="display: flex; flex-direction: row; width: 100%; justify-content: space-between;"><div class="footer-navigation-block__header"><div class="footer-navigation-block__header-title"><a class="footer-navigation-block__anchor">My Listings</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/my-active-listings">Active Listings</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/my-sold-listings">Sold Listings</a></div></div><div class="footer-navigation-block__header"><div class="footer-navigation-block__header-title"><a class="footer-navigation-block__anchor">Search</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/quick-search">Quick Search</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/advanced-search">Advanced Search</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/map-search-legacy">Map Search</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/foreclosure-search">Foreclosures</a></div></div><div class="footer-navigation-block__header"><div class="footer-navigation-block__header-title"><a class="footer-navigation-block__anchor">Communities</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/search-by-area">Search by Area</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/search-by-property-type">Search by Property Type</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/brookfield-homes">Brookfield</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/danbury-homes">Danbury</a></div></div><div class="footer-navigation-block__header"><div class="footer-navigation-block__header-title"><a class="footer-navigation-block__anchor">Buyers</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/buying">Buying</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/-/Blog/tag/Tips%20for%20Buyers">Tips for Buyers</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/dream-home-finder">Dream Home Finder</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/-/Blog/tag/Homeowner%20Information">Homeowner Information</a></div></div><div class="footer-navigation-block__header"><div class="footer-navigation-block__header-title"><a class="footer-navigation-block__anchor">Sellers</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/seller-tips">Seller’s Success Plan</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/free-market-analysis">Free Market Analysis</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/-/Blog/tag/Tips%20for%20Sellers">Tips for Sellers</a></div><div class="footer-navigation-block__sub-link"><a class="footer-navigation-block__anchor" href="/profit-estimator">Profit Estimator</a></div></div></nav></div></div></div></div><div class="ih-block widget customContent-widget css-1xdhyk6"><div class="ih-block-content widget-content customContent-widget-content"><div class="css-1dp0fhs-no-styles" data-content-block-id="6a0243b8b7f9d35a760c6224" data-content-block-name="" location="[object Object]" match="[object Object]"><p id="FooterLinks" style="text-align:center"><a class="footer-link" href="/-/Home/privacy/"><span>Privacy Policy</span></a> | <a class="footer-link" href="/-/Home/dmca/"><span>DMCA</span></a></p>
+
+</div></div></div><div class="ih-block widget customContent-widget css-1xdhyk6"><div class="ih-block-content widget-content customContent-widget-content"><div class="css-1dp0fhs-no-styles" data-content-block-id="6a0243b8b7f9d35a760c6226" data-content-block-name="" location="[object Object]" match="[object Object]"><p class="designations" style="text-align:center;"><a href="https://www.blogger.com/profile/02238284730818188198" target="notSet">Google blogger</a><img alt="house" height="78" src="https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png" width="60"> <img alt="realtor" height="78" src="https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png" width="68"> <img alt="mls" height="56" src="https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png" width="115"></p>
+
+</div></div></div></div></div><div class="mls_disclaimers container-fluid"><div class="row"><div class="col"><div class="mls-disclaimer mb-2" data-nosnippet="true"><img class="disclaimer-logo" src="https://mls-info-ihouseprd.b-cdn.net/CT-CTMLS/icons/CT-CTMLS_icon.png" alt="SmartMLS" border="0" width="125" height="27" loading="lazy">The data relating to real estate for sale on this website appears in part through the SMARTMLS Internet Data Exchange program, a voluntary cooperative exchange of property listing data between licensed real estate brokerage firms, and is provided by SMARTMLS through a licensing agreement. Listing information is from various brokers who participate in the SMARTMLS IDX program and not all listings may be visible on the site. The property information being provided on or through the website is for the personal, non-commercial use of consumers and such information may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing. Some properties which appear for sale on the website may no longer be available because they are for instance, under contract, sold or are no longer being offered for sale. Property information displayed is deemed reliable but is not guaranteed. &nbsp;Copyright&nbsp;2026&nbsp;&nbsp;SmartMLS&nbsp;, Inc.&nbsp;</div></div></div></div></div></div><div data-content-block-id="6a0243b8b7f9d35a760c6219" data-content-block-name="" id="FooterBottom" class="mt-3 css-ubl4ia-no-styles row"></div></div></div></div>
+
+----------------
